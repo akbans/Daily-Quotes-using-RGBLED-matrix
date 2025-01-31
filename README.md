@@ -5,6 +5,9 @@ This project displays a **Quote of the Day** on a **32x64 RGB LED matrix** using
 ---
 
 ## 📸 Screenshots  
+![image](https://github.com/user-attachments/assets/a6e2ee97-fb75-4064-af21-a0354ac8177d)
+![image](https://github.com/user-attachments/assets/209b1e33-d072-45ab-a1c5-c841a272e846)
+
 
 
 ---
